@@ -1,1 +1,1 @@
-# web3-labo
+# labo
